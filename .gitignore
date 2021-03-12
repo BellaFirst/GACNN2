@@ -1,0 +1,12 @@
+cache/
+__pycache__/
+.git/
+.pytest_cache/
+
+*.log
+nohup.out
+result.svg
+caoyh.py
+MyTest.py
+model_cifar.pth
+

@@ -1,0 +1,13 @@
+## This code is to find the best conv_params and fc_params using GA. 
+
+You can debug ***main.py*** to get the result. 
+
+    CNN_params = dict(
+        conv_num=[1,5],
+        conv_output=[1,4],
+        fc_num=[1,4],
+        fc_output=[1,8])
+        
+I am confusing about the result, compared with VGG, the loss of the final framwork is improved, but if the network is deep, the loss didn't improved anymore.
+
+My email is *caoyahui@tju.edu.cn*.
